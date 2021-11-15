@@ -1,0 +1,32 @@
+body{
+margin: 0px; 
+padding: 0p}
+
+
+div.maincontent{
+
+
+background-image:url(https://www.mod.gov.eg/newspics/41924/%D9%84%D9%88%D8%AC%D9%88-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9.jpg);
+height:600px;
+background-size: cover;
+   }
+div.navbar {
+   display: flex; 
+     color: white;
+    align-items: center;
+ justify-content: center;}
+a{
+    margin: 10px;
+}
+h1{
+    text-align: center;
+   
+}
+div.eee{
+display: flex;
+    justify-content: center;}
+}
+div.qqq{
+    display: flex;
+    justify-content: center;
+}
